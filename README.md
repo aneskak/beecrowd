@@ -32,7 +32,7 @@ As seguintes linguagens de programação foram usadas:
     <tr>
         <td align="center">
             <a href="https://github.com/aneskak">
-                <img src="programadora.png" width="150px;" alt="Imagem Desenvolvedora" />
+                <img src="mulher.png" width="150px;" alt="Imagem Desenvolvedora" />
                 <br />
                 <sub><b>Aneska Karina</b></sub>
             </a>
